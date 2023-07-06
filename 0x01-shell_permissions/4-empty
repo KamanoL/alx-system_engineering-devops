@@ -1,2 +1,2 @@
 #!/bin/bash
-touch Betty
+touch hello
